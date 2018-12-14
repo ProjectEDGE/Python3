@@ -1,0 +1,3 @@
+
+
+numero = int('hola mundo')

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92fed619-ac77-4681-ba1f-5a204b1c5541" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del/001. Example_Method_del.py" beforeDir="false" afterPath="$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del/001. Example_Method_del.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Tests" color="bbff7e" />
+    <fileColor scope="Local Unit Tests" color="bbff7e" />
+    <fileColor scope="Android Instrumented Tests" color="bbff7e" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del/001. Example_Method_del.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/[+] Chapter [007] - Lists" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[001]_Example_lists.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[003]_Example_list.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[003]_Example_list_index.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[004]_Example_lists_index.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[005]_Example_index.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[006]_Example_lists_typeerror.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[006]_Example_lists_TypeError.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[007]_Example_lists_union_py.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[008]_Example_lists_Negative_index.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[009]_Example_lists_sublists.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[010]_Example_lists_length_len().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011]_Example_list_length_len()_input.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/DASDA.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[012]_Example_list_changing_value_index_input().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011]_Example_list_changing_value_list.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[012]_Example_Lists_Concatenation.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[013]_Example_List_Concatenation_extend().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[014]_Example_List_using_Method_append().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[015]_Example_List_using_Method_append().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[016]_Example_list_del().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[016]_Example_lists_remove().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011] - METHODS/[011] - Method_clear( )/[001] - Example_clear().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[001]_Menu.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[002]_config_set_source.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[003]_show_info.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[000]_Credentials.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011] - METHODS/[006] - Method_count( )/[001]_Example_lists_Method_count().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011] - METHODS/[001] - Method_append( )/[001] - Example_append.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011] - METHODS/[001] - Method_append( )/[002]_Example_lists_method_append().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011] - METHODS/[004] - Method_remove( )/[017]_Example_lists_remove().py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[000] - Example/[016]_Example_working_with_lists.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[000] - Example/[001]_Example_lists_vacia.py" />
+        <option value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[001] - Empty List/[002]_Empty_List_add_value_using_cycle_while.py" />
+        <option value="$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del/001. Example.py" />
+        <option value="$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del/001. Example_Method_del.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="950" />
+    <option name="y" value="50" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="[+] Training_Python3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="[+] Training_Python3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="[+] Training_Python3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="[+] Training_Python3" type="462c0819:PsiDirectoryNode" />
+              <item name="[+] Chapter [007] - Lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="[+] Training_Python3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="[+] Training_Python3" type="462c0819:PsiDirectoryNode" />
+              <item name="[+] Chapter [007] - Lists" type="462c0819:PsiDirectoryNode" />
+              <item name="[002] - Method del" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Code\Code_Python\[+] Training_Python3\[+]_Chapter_[007] - Lists\[001] - Empty List" />
+      <recent name="C:\Users\Lenovo\Desktop\Code\Code_Python\[+] Training_Python3\[+]_Chapter_[007] - Lists\[000] - Example" />
+      <recent name="C:\Users\Lenovo\Desktop\Code\Code_Python\[+] Training_Python3\[+]_Chapter_[007] - Lists\[011] - METHODS\[011] - Method_remove( )" />
+      <recent name="C:\Users\Lenovo\Desktop\Code\Code_Python\[+] Training_Python3\[+]_Chapter_[007] - Lists\[011] - METHODS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.001. Example_Method_del">
+    <configuration name="001. Example_Method_del" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="[+] Training_Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del/001. Example_Method_del.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[001]_Example_lists_vacia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="[+] Training_Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[000] - Example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lenovo\Desktop\Code\Code_Python\[+] Training_Python3\[+]_Chapter_[007] - Lists\[001] - Empty List\[001]_Empty_List_add_value_using_cycle_for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[002]_Empty_List_add_value_using_cycle_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="[+] Training_Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[001] - Empty List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[001] - Empty List/[002]_Empty_List_add_value_using_cycle_while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[016]_Example_working_with_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="[+] Training_Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[000] - Example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[000] - Example/[016]_Example_working_with_lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[017]_Example_lists_remove()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="[+] Training_Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011] - METHODS/[004] - Method_remove( )" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011] - METHODS/[004] - Method_remove( )/[017]_Example_lists_remove().py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.001. Example_Method_del" />
+        <item itemvalue="Python.[002]_Empty_List_add_value_using_cycle_while" />
+        <item itemvalue="Python.[001]_Example_lists_vacia" />
+        <item itemvalue="Python.[016]_Example_working_with_lists" />
+        <item itemvalue="Python.[017]_Example_lists_remove()" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92fed619-ac77-4681-ba1f-5a204b1c5541" name="Default Changelist" comment="" />
+      <created>1542953738436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542953738436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28222075" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47733712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[011]_Example_list_length_len()_input.py" />
+    <entry file="file://$PROJECT_DIR$/[+]_Chapter_[007] - Lists/[012]_Example_list_changing_value_index_input().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[013]_Example_List_Concatenation_extend().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[014]_Example_List_using_Method_append().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[015]_Example_List_using_Method_append().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[005]_Example_IndexError.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[006]_Example_lists_TypeError.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[008]_Example_lists_Negative_index.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[009]_Example_lists_sublists.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[007]_Example_lists_union_py.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[010]_Example_lists_length_len().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[011]_Example_list_changing_value_list.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[012]_Example_Lists_Concatenation_operator(+).py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[011] - METHODS/[011] - Method_clear( )/[001] - Example_clear().py" />
+    <entry file="file://$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[003]_show_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[000]_Credentials.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[002]_config_set_source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[+]_Chapter_[999] - Projects/[001]_Menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[011] - METHODS/[006] - Method_count( )/[001]_Example_lists_Method_count().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[011] - METHODS/[001] - Method_append( )/[001]_Example_lists_method_append().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[011] - METHODS/[001] - Method_append( )/[002]_Example_lists_method_append().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[011] - METHODS/[004] - Method_remove( )/[016]_Example_lists_remove().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[016]_Example_working_with_lists.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[011] - METHODS/[004] - Method_remove( )/[017]_Example_lists_remove().py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[001] - Empty List/[001]_Empty_List_add_value_using_cycle_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[002]_Example_lists.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[003]_Example_lists_index.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[000] - Example/[004]_Example_lists_index.py" />
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[001] - Empty List/[002]_Empty_List_add_value_using_cycle_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[+] Chapter [007] - Lists/[002] - Method del/001. Example_Method_del.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
